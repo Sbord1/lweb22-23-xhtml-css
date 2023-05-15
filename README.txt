@@ -5,7 +5,7 @@ Componenti del gruppo:
 - Riccardo Tuzzolino
 
 Indirizzo repository su Github:
-https://github.com/tuzzo18/lweb22-23-xhtml-css.git
+https://github.com/sbord1/lweb22-23-xhtml-css.git
 
 Il sito web è stato realizzato prendendo ispirazione dall'esercizio XHTML-9
 "Città del fiore di zucca" unitamente all'esercizio CSS-3.
